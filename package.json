@@ -10,7 +10,17 @@
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-cleancss": "^0.2.2",
     "gulp-sass": "^4.1.0",
     "node-sass": "^5.0.0"
-  }
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irakli91/sass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Irakli91/sass/issues"
+  },
+  "homepage": "https://github.com/Irakli91/sass#readme"
 }
