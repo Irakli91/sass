@@ -1,10 +1,32 @@
-@media (max-width:1185px) {
+@media (max-width: 1920px) {
     .head {
-        .head-2 {
-            .navigation {
-                .navigation-ul {
-                    .navigation-li {
-                        width: 100%;
+        width: 100%;
+        .head-1 {
+            .social-icons {
+                margin-right: -80px;
+            }
+        }
+        .head-3 {
+            .search {
+                margin-right: 525px;
+            }
+        }
+    }
+    .section-1 {
+        .slider {
+            margin: 250px;
+        }
+    }
+}
+
+
+@media (max-width:1185px) {
+
+    .head {
+        .head-2{
+            .navigation{
+                .navigation-ul{
+                    .navigation-li{
                         margin: 25px 10px 0 30px;
                     }
                 }
