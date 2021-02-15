@@ -101,14 +101,14 @@
     background: #F1F1F1;
     position: relative;
     .slider {
-        width: 550px;
-        height: 450px;
+        width: 500px;
+        height: 400px;
         position: absolute;
         top: 50px;
-        right: -25px;
-        .slide-img {
-            width: 500px;
-            height: 300px;
-        }
+        right: 20px;
+        // .slide-img {
+        //     // width: 700px;
+        //     height: 500px;
+        // }
     }
 }
